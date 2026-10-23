@@ -167,6 +167,16 @@ Morena gobierna el país desde diciembre de 2018 y, junto con sus aliados, tiene
 
 ## 10. Propuesta de solución
 
+### Presupuesto etiquetado y transparente para medicamentos
+
+Proponemos que una parte fija del presupuesto del IMSS se destine solo a medicamentos y no pueda moverse a otros rubros. Cada compra se haría por licitación pública y se publicaría en un portal abierto donde cualquier ciudadano pueda seguir el dinero: cuánto se asignó, a qué proveedor, a qué precio, cuántas piezas se entregaron y en qué clínica se surtieron. Así se comprueba en qué se usan nuestros impuestos y se exhibe a quien no cumple.
+
+### Cómo se mide
+
+- Porcentaje de compras hechas por licitación pública (en 2021 fue solo 12.2 %) [6].
+- Porcentaje de entrega de los proveedores (cerca de 73 % a finales de 2025) [5].
+- Número de recetas no surtidas o no entregadas al momento (4.68 millones en 2024) [4].
+
 ## 11. Alcance
 
 **Sí incluye:** la relación entre el nivel de inversión y las decisiones de gobierno con la capacidad de atención del IMSS (régimen ordinario): infraestructura, personal, equipo y abasto de medicamentos.
