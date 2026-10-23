@@ -167,8 +167,6 @@ Morena gobierna el país desde diciembre de 2018 y, junto con sus aliados, tiene
 
 ## 10. Propuesta de solución
 
-*Sección en desarrollo por el equipo.*
-
 ## 11. Alcance
 
 **Sí incluye:** la relación entre el nivel de inversión y las decisiones de gobierno con la capacidad de atención del IMSS (régimen ordinario): infraestructura, personal, equipo y abasto de medicamentos.
