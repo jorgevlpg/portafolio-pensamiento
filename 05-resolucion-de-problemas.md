@@ -165,36 +165,15 @@ Morena gobierna el país desde diciembre de 2018 y, junto con sus aliados, tiene
 | Gasto público en salud | 2.6 % del PIB [1] | Aumento sostenido hacia 6 % |
 | Entrega de proveedores | Cerca de 73 % [5] | 100 % a tiempo |
 
-## 10. Propuesta de solución básica (punto de partida)
+## 10. Propuesta de solución
 
-Como esta etapa es de definición, la propuesta es solo un borrador para desarrollar después. Ataca la parte del problema que se puede resolver más rápido y con menos dinero: que el medicamento que sí se compró llegue al paciente.
-
-### Idea: "Receta Segura", un sistema de abasto con trazabilidad y predicción
-
-1. **Trazabilidad de cada medicamento.** Registrar cada lote desde que el proveedor lo entrega hasta que sale de la farmacia de la clínica, con código de barras o QR. Así se sabe en qué punto se atora: proveedor, almacén o transporte, que es una de las fallas que hoy se señalan [5][12].
-2. **Predicción de la demanda.** Usar el historial de recetas de cada clínica para estimar cuánto de cada medicamento se va a necesitar el mes siguiente, y comprar y distribuir con anticipación en lugar de reaccionar al faltante.
-3. **Alertas y redistribución.** Cuando una clínica esté por quedarse sin un medicamento, el sistema avisa y sugiere trasladarlo desde otra unidad cercana que tenga de más.
-4. **Tablero público.** Publicar el porcentaje de abasto por clínica y el cumplimiento de cada proveedor, para que el desabasto no se pueda negar y los proveedores que incumplen queden expuestos.
-
-### Cómo responde a los requerimientos
-
-- Mejora directamente el porcentaje de recetas surtidas, medible con los datos que el propio IMSS ya genera.
-- Cuesta mucho menos que construir hospitales y puede probarse primero en una sola delegación.
-- La transparencia del tablero hace que el resultado se pueda verificar públicamente.
-
-### Lo que falta definir
-
-- ¿Con qué región o clínicas se haría la prueba piloto?
-- ¿Qué datos de recetas existen y cómo se obtendrían?
-- ¿Qué técnica de predicción usar, desde un promedio móvil sencillo hasta un modelo de aprendizaje automático?
-- ¿Cuánto costaría y quién lo operaría?
-- ¿Se combina con una propuesta de más presupuesto para camas y plazas, que es la otra mitad del problema?
+*Sección en desarrollo por el equipo.*
 
 ## 11. Alcance
 
 **Sí incluye:** la relación entre el nivel de inversión y las decisiones de gobierno con la capacidad de atención del IMSS (régimen ordinario): infraestructura, personal, equipo y abasto de medicamentos.
 
-**No incluye:** el ISSSTE, el IMSS-Bienestar ni el sector privado; tampoco las pensiones del IMSS. La solución de la sección 10 es un punto de partida, no un diseño final.
+**No incluye:** el ISSSTE, el IMSS-Bienestar ni el sector privado; tampoco las pensiones del IMSS.
 
 ## Fuentes
 
@@ -211,3 +190,7 @@ Como esta etapa es de definición, la propuesta es solo un borrador para desarro
 11. Expansión Política (2026). [Trabajadores del IMSS intensifican protestas y bloquean vialidades](https://politica.expansion.mx/mexico/2026/10/12/trabajadores-imss-bloqueos-zoe-robledo-277-hospitales).
 12. Infobae (2026). [Por qué no hay medicinas en el IMSS y qué dice el gobierno de Sheinbaum](https://www.infobae.com/mexico/2026/10/13/por-que-no-hay-medicinas-en-el-imss-y-que-dice-el-gobierno-de-sheinbaum-sobre-el-tema/).
 13. LatinUS (2026). [Personal del IMSS en Guanajuato mantiene protestas por bajos salarios y desabasto](https://latinus.us/mexico/2026/10/12/personal-del-imss-en-guanajuato-mantiene-protestas-por-bajos-salarios-desabasto-de-medicamentos-186858.html).
+
+---
+
+<small>Declaración de uso de IA: para la investigación de fuentes, la redacción y la organización de este trabajo nos apoyamos en Claude (Anthropic). El equipo revisó el contenido y es responsable de su entrega.</small>
