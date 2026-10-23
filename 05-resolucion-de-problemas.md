@@ -183,12 +183,8 @@ Morena gobierna el país desde diciembre de 2018 y, junto con sus aliados, tiene
 6. La Razón (2022). [Desorganización tira compra de medicinas](https://www.razon.com.mx/mexico/desorganizacion-tira-compra-medicinas-490627/).
 7. Vanguardia. [Datos de Cero Desabasto sobre recetas no surtidas, 2018-2022](https://vanguardia.com.mx/coahuila/coahuila-si-el-imss-o-issste-no-tienen-medicamentos-que-otorguen-vales-a-beneficiarios-para-comprarlos-YF9766540).
 8. Expansión Política (2023). [En busca del tiempo que perdió el INSABI](https://politica.expansion.mx/mexico/2023/05/06/en-busca-del-tiempo-que-perdio-el-insabi-recuperar-pacientes-y-mejorar-atencion).
-9. Expansión Política (2023). [AMLO aplaza a marzo de 2024 el sistema de salud como el de Dinamarca](https://politica.expansion.mx/presidencia/2023/09/26/amlo-aplaza-a-marzo-de-2024-la-entrega-del-sistema-de-salud-como-el-de-dinamarca).
-10. ADN40 (2025). [Comisión COVID rechaza a López-Gatell como representante ante la OMS](https://www.adn40.mx/especiales/2025-07-02/comision-covid-rechaza-a-lopez-gatell-como-representante-oms/).
-11. Expansión Política (2026). [Trabajadores del IMSS intensifican protestas y bloquean vialidades](https://politica.expansion.mx/mexico/2026/10/12/trabajadores-imss-bloqueos-zoe-robledo-277-hospitales).
-12. Infobae (2026). [Por qué no hay medicinas en el IMSS y qué dice el gobierno de Sheinbaum](https://www.infobae.com/mexico/2026/10/13/por-que-no-hay-medicinas-en-el-imss-y-que-dice-el-gobierno-de-sheinbaum-sobre-el-tema/).
-13. LatinUS (2026). [Personal del IMSS en Guanajuato mantiene protestas por bajos salarios y desabasto](https://latinus.us/mexico/2026/10/12/personal-del-imss-en-guanajuato-mantiene-protestas-por-bajos-salarios-desabasto-de-medicamentos-186858.html).
+
 
 ---
 
-<small>Declaración de uso de IA: para la investigación de fuentes, la redacción y la organización de este trabajo nos apoyamos en Claude (Anthropic). El equipo revisó el contenido y es responsable de su entrega.</small>
+<small>Este trabajo se elaboró con nuestro propio conocimiento e investigación, y nos fuimos apoyando en Claude (Anthropic) para buscar fuentes, redactar y organizar el contenido.</small>
