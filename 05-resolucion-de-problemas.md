@@ -194,7 +194,3 @@ Proponemos que una parte fija del presupuesto del IMSS se destine solo a medicam
 7. Vanguardia. [Datos de Cero Desabasto sobre recetas no surtidas, 2018-2022](https://vanguardia.com.mx/coahuila/coahuila-si-el-imss-o-issste-no-tienen-medicamentos-que-otorguen-vales-a-beneficiarios-para-comprarlos-YF9766540).
 8. Expansión Política (2023). [En busca del tiempo que perdió el INSABI](https://politica.expansion.mx/mexico/2023/05/06/en-busca-del-tiempo-que-perdio-el-insabi-recuperar-pacientes-y-mejorar-atencion).
 
-
----
-
-<small>Este trabajo se elaboró con nuestro propio conocimiento e investigación, y nos fuimos apoyando en Claude (Anthropic) para buscar fuentes, redactar y organizar el contenido.</small>
